@@ -1,6 +1,6 @@
 const Article = () => {
   return (
-    <div className="flex justify-between border border-[#ECF1F4] rounded-lg  h-[200px]">
+    <div className="flex justify-between border border-[#ECF1F4] rounded-lg">
       {/* Text Container (Larger) */}
       <div className="px-4 py-4 flex flex-col gap-2 flex-5">
         <div className="flex items-center gap-1">
